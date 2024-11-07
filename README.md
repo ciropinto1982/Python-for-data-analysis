@@ -7,5 +7,6 @@ Useful PYTHON scripts to read results from spectral fits and timing
 - py_jdutil.py ........................... functions to convert (M)JD time
 - py_join_lightcurves.py .......... join lightcurves
 - py_plot_lightcurve_HR.py ..... plot lightcurve and HR
+- velocity_accuracy_NewAthena.py ..... compute accuracy on turbulence and bulk motions
 
 Note that additional scripts can be found in the branches of the other repositories.
